@@ -1,5 +1,5 @@
 
-#THE CHARACTERISTICS OF HIGH COLLABORATION AND HIGH PERFORMANCE - JEAN TABAKA
+# THE CHARACTERISTICS OF HIGH COLLABORATION AND HIGH PERFORMANCE - JEAN TABAKA
 
 * They are self-organizing rather than role or title based
 * They are empowered to make decisions
