@@ -1,4 +1,4 @@
-# Team working agreements
+## Team working agreements
 
 Working agreements are guidelines used by the team to describe how they want to work together. 
 We are going to create between 5 and 10 agreements that describe positive behaviours that everyone believes in. 
