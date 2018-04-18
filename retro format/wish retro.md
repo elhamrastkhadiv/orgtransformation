@@ -22,3 +22,27 @@ give participants 10 min to write stickies for following categories:
 
 ![picture alt](../assets/images/retro/wish%20retro/wish retro "Title is optional")
 
+
+### Finding from our team:
+
+#### Past:
+* being part of a team, comunication, purpose,clear goal was missing. 
+* There was a Silo within the team
+* Team was not happy with the quality of the code
+
+
+#### Now
+* Team is happy with team communication, team working
+* pair programming is happening
+* less silo 
+* less meeting
+* collaborate more with other team
+
+
+#### future
+* having wider impact of product decision
+* Make other envious: Make a team which other people want to join(By being more clear on our goal and capacity and push back on things which does not make sense)
+* improve code quality
+
+
+
