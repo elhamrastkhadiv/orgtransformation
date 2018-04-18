@@ -20,7 +20,7 @@ give participants 10 min to write stickies for following categories:
 2: things we have done/ achieved(now)
 3: wish list for future(feature) 
 
-![picture alt](../assets/images/retro/wish%20retro/wish retro "Title is optional")
+![picture alt](../assets/images/retro/wish%20retro/wish%20retro.jpg)
 
 
 ### Finding from our team:
