@@ -26,7 +26,7 @@ give participants 10 min to write stickies for following categories:
 ### Finding from our team:
 
 #### Past:
-* being part of a team, comunication, purpose,clear goal was missing. 
+* being part of a team, communication, purpose,clear goal was missing. 
 * There was a Silo within the team
 * Team was not happy with the quality of the code
 
