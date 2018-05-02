@@ -45,4 +45,8 @@ give participants 10 min to write stickies for following categories:
 * Improve code quality
 
 
+#### Action Items
+![picture alt](../assets/images/retro/wish%20retro/action%20items.jpg)
+
+
 
