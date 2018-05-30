@@ -4,14 +4,12 @@
 
 * Read the notes and talk about them and group them if possible.
 
-* categorize them by pain and effort
+* Categorize them by pain and effort.
 
-
-![picture alt](../assets/images/retro/support%20retro/loyalty-wtf%20architect.png)
 
 ### Tips:
 
-* use Jira board to navigate through bugs and task to help the brain storm process.
+* Use Jira board to navigate through bugs and tasks to help the brain storming process.
 
 #### Action Items
 
@@ -22,6 +20,8 @@
 
 
 ![picture alt](../assets/images/retro/support%20retro/paineffor.png)
+
+![picture alt](../assets/images/retro/support%20retro/loyalty-wtf%20architect.png)
 
 
 
