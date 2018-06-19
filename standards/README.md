@@ -7,9 +7,10 @@
  This RFC introduces the concept of the `Standard README.md`
 
 ## Solution
-All of OpenTable Repository should follow basic requirement for a READMe.md file. we can add a build step to fail?? 
+All of OpenTable Repository should have a README.md file and follow basic requirement for a READMe.md file. 
+we can add a linter validation to fail build ?? 
 
-### Suggested Sections
+##Suggested Sections
 basic READMe.md file need to have following sections:
 
 * Requirements
@@ -22,7 +23,7 @@ basic READMe.md file need to have following sections:
 * License(Optional)
 
 
-
+## Sections description
 ####  Title
 ####  Table of Content
 ####  Requirements
@@ -30,18 +31,24 @@ basic READMe.md file need to have following sections:
 #### Testing 
 ####  Deploy process
 ####  Run book
-    - [follow the wiki run book standards(dashboard,environments)](https://wiki.otcorp.opentable.com/display/CP/Service+Runbook+Example) 
-    - Trouble shooting
+    * [follow the wiki run book standards(dashboard,environments)](https://wiki.otcorp.opentable.com/display/CP/Service+Runbook+Example) 
+    * Trouble shooting
 #### Toggles(optional)
-    - Features flags
-    - A/B tests
+    * Features flags
+    * A/B tests
 #### Internationalization i18n(Optional)
 #### Contribute
-    - CONTRIBUTING.md
-    - SLA
-    - Coding standards    
+    * CONTRIBUTING.md
+    * SLA
+    * Coding standards    
          - style guides
     
 ####  License(Optional)
+
+
+
+## Sample Repo with a good README file
+* [Booking-flow](https://github.com/opentable/booking-flow)
+* [wtf-service](https://github.com/opentable/wtf-service)
 
 
