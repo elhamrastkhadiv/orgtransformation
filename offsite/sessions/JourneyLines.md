@@ -7,7 +7,7 @@ Each of the participants:
 - X axis which represents time
 - Y axis that represents emotional high & low points
 
-![Journey Lines](../assets/images/sessions/Journey-Lines.png)
+![Journey Lines](../../assets/images/sessions/Journey-Lines.png)
 
 Journey line is a about creating high performance team, high performing team is base on trust.
 
@@ -16,4 +16,4 @@ The idea is high performing teams occur when a group of individuals is willing t
 
 The opportunity as a leader is to break down the invisible walls that each of us has created individually, and forge the personal bonds and shared humanity that will bring individuals together as an “All Star Team.”
 
-![My Journey](../assets/images/sessions/my-Journey-line.png)
+![My Journey](../../assets/images/sessions/my-Journey-line.png)
